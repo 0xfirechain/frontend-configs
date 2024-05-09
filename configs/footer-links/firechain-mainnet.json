@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Developers",
+        "links": [
+            {
+                "text": "Faucets",
+                "url": "https://faucet.thefirechain.com"
+            },
+            {
+                "text": "Bridges",
+                "url": "https://bridge.thefirechain.com"
+            },
+            {
+                "text": "Documentation",
+                "url": "https://docs.thefirechain.com"
+            },
+            {
+                "text": "Brand Guidelines",
+                "url": "https://thefirechain.com"
+            }
+        ]
+    },
+    {
+        "title": "Ecosystem",
+        "links": [
+            {
+                "text": "Fire Station",
+                "url": "https://firestationcex.com"
+            },
+            {
+                "text": "FireChain",
+                "url": "https://thefirechain.com"
+            },
+            {
+                "text": "DonaSwap",
+                "url": "https://donaswap.io"
+            },
+            {
+                "text": "FireMask",
+                "url": "https://thefiremask.com"
+            },
+            {
+                "text": "FireSea",
+                "url": "https://firesea.io"
+            },
+            {
+                "text": "Punk Knights",
+                "url": "https://punkknights.com"
+            }
+        ]
+    }
+]
