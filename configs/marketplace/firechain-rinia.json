@@ -10,6 +10,6 @@
     "external": true,
     "internalWallet": false,
     "categories": ["Swaps", "Liquid Staking"],
-    "logo": "https://donaswap.io/logo.png"
+    "logo": "logo"
   }
 ]
