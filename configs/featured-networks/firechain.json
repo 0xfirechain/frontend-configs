@@ -23,6 +23,5 @@
 		"url": "https://ghostrider-zkevm.firescan.io",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-dark.svg"
-		"isActive": true
 	}
 ]
