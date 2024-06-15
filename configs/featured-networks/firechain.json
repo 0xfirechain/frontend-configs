@@ -3,25 +3,25 @@
 		"title": "Firechain [Soon]",
 		"url": "https://firescan.io",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-nodark.svg",
+		"icon": "https://raw.githubusercontent.com/0xfirechain/frontend-configs/main/configs/network-icons/firescan-nw-nodark.svg",
 		"isActive": true
 	},
 	{
 		"title": "Firechain ZKEVM [Soon]",
 		"url": "https://zkevm.firescan.io",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-nodark.svg"
+		"icon": "https://raw.githubusercontent.com/0xfirechain/frontend-configs/main/configs/network-icons/firescan-nw-nodark.svg"
 	},
 	{
 		"title": "Rinia [Soon]",
 		"url": "https://rinia.firescan.io",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-dark.svg"
+		"icon": "https://raw.githubusercontent.com/0xfirechain/frontend-configs/main/configs/network-icons/firescan-nw-dark.svg"
 	},
 	{
 		"title": "Firechain ZKEVM Ghostrider [Soon]",
 		"url": "https://ghostrider-zkevm.firescan.io",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-dark.svg"
+		"icon": "https://raw.githubusercontent.com/0xfirechain/frontend-configs/main/configs/network-icons/firescan-nw-dark.svg"
 	}
 ]
