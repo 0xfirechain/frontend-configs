@@ -3,14 +3,14 @@
 		"title": "Firechain [Soon]",
 		"url": "https://firescan.io",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-nodark.svg",
-		"isActive": true
+		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-nodark.svg"
 	},
 	{
 		"title": "Firechain ZKEVM [Soon]",
 		"url": "https://zkevm.firescan.io",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-nodark.svg"
+		"icon": "https://raw.githubusercontent.com/0xfirechain/firescan-frontend-configs/main/configs/network-icons/firescan-nw-nodark.svg",
+		"isActive": true
 	},
 	{
 		"title": "Rinia [Soon]",
