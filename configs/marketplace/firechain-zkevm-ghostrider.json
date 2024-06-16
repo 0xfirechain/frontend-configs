@@ -25,6 +25,9 @@
     "shortDescription": "DonaSwap is the primary multi-chain dex for firechain Networks which sprouted by the DonaSwap (DONA) Token",
     "site": "https://donaswap.io",
     "url": "https://donaswap.io",
+    "twitter": "https://twitter.com/0xdonaswap",
+    "telegram": "https://t.me/donaswaptg",
+    "github": "https://github.com/0xdonaswap",
     "external": true,
     "internalWallet": false,
     "categories": [
