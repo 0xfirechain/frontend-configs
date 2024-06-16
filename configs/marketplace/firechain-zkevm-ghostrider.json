@@ -1,6 +1,24 @@
 [
   {
     "author": "Fire Station",
+    "id": "firestation",
+    "title": "Fire Station",
+    "description": "A new digital asset exchange",
+    "shortDescription": "A new digital asset exchange",
+    "site": "https://firestationcex.com",
+    "url": "https://firestationcex.com",
+    "twitter": "https://twitter.com/firestationcex",
+    "telegram": "https://t.me/firestationcex",
+    "github": "https://github.com/0xfirestation",
+    "external": true,
+    "internalWallet": false,
+    "categories": [
+      "Cex"
+    ],
+    "logo": "https://thefirechain.com/_next/image?url=%2Fimages%2Fpartners%2Ffirestation.png&w=1920&q=75"
+  },
+  {
+    "author": "Fire Station",
     "id": "donaswap",
     "title": "DonaSwap",
     "description": "DonaSwap is the primary multi-chain dex for firechain Networks which sprouted by the DonaSwap (DONA) Token",
@@ -9,7 +27,10 @@
     "url": "https://donaswap.io",
     "external": true,
     "internalWallet": false,
-    "categories": ["Swaps", "Liquid Staking"],
+    "categories": [
+      "Swaps",
+      "Liquid Staking"
+    ],
     "logo": "https://donaswap.io/logo.png"
   }
 ]
