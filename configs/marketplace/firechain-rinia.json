@@ -35,5 +35,53 @@
       "Liquid Staking"
     ],
     "logo": "https://donaswap.io/logo.png"
+  },
+  {
+    "author": "Fire Station",
+    "id": "firemask",
+    "title": "FireMask",
+    "description": "FireMask is a wallet tuned to the max. It's a better way to buy, store, send and swap tokens.",
+    "shortDescription": "FireMask is a wallet tuned to the max. It's a better way to buy, store, send and swap tokens.",
+    "site": "https://thefiremask.com",
+    "url": "https://thefiremask.com",
+    "twitter": "https://twitter.com/thefiremask",
+    "telegram": "https://t.me/firestationcex",
+    "github": "https://github.com/0xfiremask",
+    "external": false,
+    "internalWallet": false,
+    "categories": [
+      "Wallet"
+    ],
+    "logo": "https://thefirechain.com/_next/image?url=%2Fimages%2Fpartners%2Ffiremask.png&w=1920&q=75"
+  },
+  {
+    "author": "Fire Station",
+    "id": "firesea",
+    "title": "FireSea",
+    "description": "a new multichain NFT marketplace. Buy, sell, & discover the internet of goods.",
+    "shortDescription": "a new  multichain NFT marketplace. Buy, sell, & discover the internet of goods.",
+    "site": "https://firesea.io",
+    "url": "https://firesea.io",
+    "twitter": "https://twitter.com/thefiresea",
+    "telegram": "https://t.me/firestationcex",
+    "github": "https://github.com/0xfiresea",
+    "external": false,
+    "internalWallet": false,
+    "categories": [
+      "NFTs"
+    ],
+    "logo": "https://thefirechain.com/_next/image?url=%2Fimages%2Fpartners%2Ffiresea.png&w=1920&q=75"
+  },
+  {
+    "author": "Gnosis",
+    "id": "gnosis-safe",
+    "title": "Gnosis Safe",
+    "logo": "https://blockscout-content.s3.amazonaws.com/gnosis_safe.png",
+    "categories": ["Wallets", "Dev tooling"],
+    "shortDescription": "The Gnosis Safe is a multi-signature smart contract wallet that allows users to define a list of owner/signer accounts and a threshold number of signers required to confirm a transaction.",
+    "site": "https://app.safe.global/welcome",
+    "description": "The Gnosis Safe is a multi-signature smart contract wallet that allows users to define a list of owner/signer accounts and a threshold number of signers required to confirm a transaction.",
+    "external": true,
+    "url": "https://app.safe.global/welcome?chain=gno"
   }
 ]
