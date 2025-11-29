@@ -3,12 +3,12 @@
         "title": "Developers",
         "links": [
             {
-                "text": "Faucets",
-                "url": "https://faucet.thefirechain.com"
+                "text": "Faucet",
+                "url": "https://faucet.firestation.io"
             },
             {
-                "text": "Bridges",
-                "url": "https://bridge.thefirechain.com"
+                "text": "Bridge",
+                "url": "https://bridge.firestation.io"
             },
             {
                 "text": "Documentation",
